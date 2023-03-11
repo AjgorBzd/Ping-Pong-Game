@@ -1,0 +1,5 @@
+﻿  Pong 1.2.cpp
+C:\Users\Igor Bzdwka\source\repos\Pong 1.2\Pong 1.2\Pong 1.2.cpp(318,67): warning C4311: 'type cast': pointer truncation from 'HBRUSH' to 'LONG'
+C:\Users\Igor Bzdwka\source\repos\Pong 1.2\Pong 1.2\Pong 1.2.cpp(318,67): warning C4302: 'type cast': truncation from 'HBRUSH' to 'LONG'
+C:\Users\Igor Bzdwka\source\repos\Pong 1.2\Pong 1.2\Pong 1.2.cpp(213,12): warning C4101: 'back': unreferenced local variable
+  Pong 1.2.vcxproj -> C:\Users\Igor Bzdwka\source\repos\Pong 1.2\x64\Debug\Pong 1.2.exe
